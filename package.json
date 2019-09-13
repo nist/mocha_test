@@ -1,0 +1,26 @@
+{
+  "name": "mocha_test",
+  "version": "1.0.0",
+  "description": "Testing Mocha library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nist/mocha_test.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Mocha"
+  ],
+  "author": "Nicolas St-Laurent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nist/mocha_test/issues"
+  },
+  "homepage": "https://github.com/nist/mocha_test#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
