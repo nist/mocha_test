@@ -22,5 +22,8 @@
   "homepage": "https://github.com/nist/mocha_test#readme",
   "devDependencies": {
     "mocha": "^6.2.0"
+  },
+  "standard": {
+    "env": [ "mocha" ]
   }
 }
